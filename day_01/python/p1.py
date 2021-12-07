@@ -13,7 +13,7 @@ reading the file line by line using `readline()`.
 Usage:
 
 ```
-$ python day1_p1.py ../data/input.txt
+$ python p1.py ../data/input.txt
 Number of measurement increases: 1390
 ```
 

@@ -12,7 +12,7 @@ We provide both solutions below.
 Usage:
 
 ```
-$ python day1_p2.py ../data/input.txt
+$ python p2.py ../data/input.txt
 Number of 3 moving window measurement increases (w/o numpy): 1457
 Number of 3 moving window measurement increases (w/numpy): 1457
 ```
