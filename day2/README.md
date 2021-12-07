@@ -1,4 +1,5 @@
---- Day 2: Dive! ---
+Day 2: Dive!
+---
 
 Now, you need to figure out how to pilot this thing.
 
@@ -32,7 +33,8 @@ Your horizontal position and depth both start at 0. The steps above would then m
 
 Calculate the horizontal position and depth you would have after following the planned course. What do you get if you multiply your final horizontal position by your final depth?
 
---- Part Two ---
+Part Two
+---
 Based on your calculations, the planned course doesn't seem to make any sense. You find the submarine manual and discover that the process is actually slightly more complicated.
 
 In addition to horizontal position and depth, you'll also need to track a third value, aim, which also starts at 0. The commands also mean something entirely different than you first thought:
